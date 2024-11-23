@@ -10,12 +10,12 @@ Atualmente estou participando do projeto da ONE, em parceria com a Oracle e Alur
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://marimagalhaeslopes.github.io/portfolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianamagalhaeslopes/)
 
-## Outras seções comuns em perfis do GitHub
+## Curiosidades
 🧠 Estou aprendendo Javascript, focada em Front-end.
 
 👯‍♀️ Procuro colaborar em conhecimento, organização.
 
-💬 Me pergunte sobre qualquer tema para que possamos ter uma conversa.
+💬 Me pergunte sobre jogos, séries e vamos ter uma conversa bacana!
 
 😄 Pronomes: ela/dela/she/her.
 
