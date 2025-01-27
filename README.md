@@ -4,7 +4,6 @@
 
 ## 🚀 Sobre mim
 Eu sou desenvolvedora full-stack autodidata.
-Atualmente estou participando do projeto da ONE, em parceria com a Oracle e Alura e realizando portfólios.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://marimagalhaeslopes.github.io/portfolio/)
