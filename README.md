@@ -3,14 +3,15 @@
 
 
 ## 🚀 Sobre mim
-Eu sou desenvolvedora full-stack autodidata.
+Desenvolvedora de Software, tenho 29 anos. Moro na cidade do Rio de Janeiro, mas nasci em Recife, a cidade do Frevo!
+Amo ler, estudar, ouvir podcasts e estar por dentro da tecnologia!
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://marimagalhaeslopes.github.io/portfolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianamagalhaeslopes/)
 
 ## Curiosidades
-🧠 Estou aprendendo Javascript, focada em Front-end.
+👩‍💻 C#, React e JavaScript
 
 👯‍♀️ Procuro colaborar em conhecimento, organização.
 
