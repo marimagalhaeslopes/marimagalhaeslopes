@@ -3,8 +3,18 @@
 
 
 ## 🚀 Sobre mim
-Desenvolvedora de Software, tenho 29 anos. Moro na cidade do Rio de Janeiro, mas nasci em Recife, a cidade do Frevo!
-Amo ler, estudar, ouvir podcasts e estar por dentro da tecnologia!
+Sou desenvolvedora backend com experiência prática em .NET, C#, SQL Server e APIs REST. Minha transição para a tecnologia foi impulsionada por mais de 5 anos atuando com segurança de dados e antifraude em e-commerces, onde liderei times técnicos e participei de projetos estratégicos com grandes varejistas como as Casas Bahia.
+
+Ao longo da jornada, desenvolvi habilidades valiosas: pensamento analítico, comunicação com diferentes áreas, gestão de crises e entrega de resultados concretos. E decidi unir tudo isso à minha paixão por tecnologia, mergulhando em estudos e projetos práticos.
+
+Hoje, além de backend, também estudo JavaScript e React, ampliando minha visão fullstack e aprimorando minha capacidade de entregar soluções completas.
+
+Busco uma oportunidade como desenvolvedora backend júnior em um time colaborativo, onde eu possa seguir aprendendo, contribuindo e construindo produtos que façam sentido para as pessoas.
+
+🔧 Tecnologias: C#, .NET, SQL Server, REST APIs, Git, Postman, HTML, CSS, JavaScript, React
+🧠 Soft skills: liderança técnica, empatia, comunicação com negócio, visão analítica
+📍 Localização: Rio de Janeiro – disponível para remoto ou híbrido
+📫 Contato: marianamagalhaeslopes@outlook.com.br
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://marimagalhaeslopes.github.io/portfolio/)
