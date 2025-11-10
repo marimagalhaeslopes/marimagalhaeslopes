@@ -3,13 +3,13 @@
 
 
 ## 🚀 Sobre mim
-Sou desenvolvedora backend com experiência prática em .NET, C#, SQL Server e APIs REST. Minha transição para a tecnologia foi impulsionada por mais de 5 anos atuando com segurança de dados e antifraude em e-commerces, onde liderei times técnicos e participei de projetos estratégicos com grandes varejistas como as Casas Bahia.
+Com mais de 5 anos de experiência em análise de dados, prevenção a fraudes e liderança técnica, estou migrando minha carreira para o desenvolvimento full stack.
 
-Ao longo da jornada, desenvolvi habilidades valiosas: pensamento analítico, comunicação com diferentes áreas, gestão de crises e entrega de resultados concretos. E decidi unir tudo isso à minha paixão por tecnologia, mergulhando em estudos e projetos práticos.
+Na Clearsale, liderei projetos estratégicos de e-commerce, capacitando times e desenvolvendo soluções que otimizaram processos e fortaleceram a segurança de grandes parceiros, como Casas Bahia. Essa experiência consolidou minha base em análise lógica, gestão de projetos e visão sistêmica, fundamentos que agora aplico no desenvolvimento de software.
 
-Hoje, além de backend, também estudo JavaScript e React, ampliando minha visão fullstack e aprimorando minha capacidade de entregar soluções completas.
+Possuo formação em Backend e Frontend pela Alura e curso superior em Análise e Desenvolvimento de Sistemas pela Infnet.
 
-Busco uma oportunidade como desenvolvedora backend júnior em um time colaborativo, onde eu possa seguir aprendendo, contribuindo e construindo produtos que façam sentido para as pessoas.
+Sou motivada por desafios, aprendizado contínuo e pelo desejo de criar aplicações que integrem tecnologia, dados e experiência do usuário para gerar impacto significativo.
 
 🔧 Tecnologias: C#, .NET, SQL Server, REST APIs, Git, Postman, HTML, CSS, JavaScript, React
 🧠 Soft skills: liderança técnica, empatia, comunicação com negócio, visão analítica
