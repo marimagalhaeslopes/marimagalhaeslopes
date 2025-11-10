@@ -14,7 +14,7 @@ Sou motivada por desafios, aprendizado contínuo e pelo desejo de criar aplicaç
 🔧 Tecnologias: C#, .NET, SQL Server, REST APIs, Git, Postman, HTML, CSS, JavaScript, React
 🧠 Soft skills: liderança técnica, empatia, comunicação com negócio, visão analítica
 📍 Localização: Rio de Janeiro – disponível para remoto ou híbrido
-📫 Contato: marianamagalhaeslopes@outlook.com.br
+📫 Contato: scppuna@hotmail.com
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://marimagalhaeslopes.github.io/portfolio/)
