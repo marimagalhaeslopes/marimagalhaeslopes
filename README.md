@@ -1,9 +1,9 @@
 
-# Olá, eu sou a Mari! 🤗
+# Olá, eu sou a Mariana! 🤗
 
 
 ## 🚀 Sobre mim
-Com mais de 5 anos de experiência em análise de dados, prevenção a fraudes e liderança técnica, estou migrando minha carreira para o desenvolvimento full stack.
+Com mais de 5 anos de experiência em análise de dados, prevenção a fraudes e liderança técnica, agora estou na carreira de desenvolvimento full stack.
 
 Na Clearsale, liderei projetos estratégicos de e-commerce, capacitando times e desenvolvendo soluções que otimizaram processos e fortaleceram a segurança de grandes parceiros, como Casas Bahia. Essa experiência consolidou minha base em análise lógica, gestão de projetos e visão sistêmica, fundamentos que agora aplico no desenvolvimento de software.
 
@@ -14,7 +14,7 @@ Sou motivada por desafios, aprendizado contínuo e pelo desejo de criar aplicaç
 🔧 Tecnologias: C#, .NET, SQL Server, REST APIs, Git, Postman, HTML, CSS, JavaScript, React
 🧠 Soft skills: liderança técnica, empatia, comunicação com negócio, visão analítica
 📍 Localização: Rio de Janeiro – disponível para remoto ou híbrido
-📫 Contato: scppuna@hotmail.com
+📫 Contato: [LinkedIn](https://www.linkedin.com/in/marianamagalhaeslopes/)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://marimagalhaeslopes.github.io/portfolio/)
